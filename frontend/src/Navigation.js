@@ -48,9 +48,9 @@ function Navigation() {
                     </a>
                 </li>
                 <li>
-                    <a href="#" onClick={() => history.push("/places/new")}>
+                    {currentUser?.role === 'admin' && <a href="#" onClick={() => history.push("/places/new")}>
                         Add Place
-                    </a>
+                    </a>}
                 </li>
                 {loginActions}
             </ul>

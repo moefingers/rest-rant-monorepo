@@ -10,6 +10,7 @@ router.post('/', async (req, res) => {
     let { password, ...rest } = req.body
     let userToCreate = {
         ...rest,
+        role: 'reviewer',
         passwordDigest: hashedPassword
     }
     console.log(userToCreate)
