@@ -27,6 +27,9 @@ function Navigation() {
         loginActions = (
             <li style={{ float: 'right' }}>
                 Logged in as {currentUser.firstName} {currentUser.lastName}
+                <a href="/logout">
+                    Logout
+                </a>
             </li>
         )
     }
