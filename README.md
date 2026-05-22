@@ -1,8 +1,8 @@
 <!-- unlv-museum-banner-start -->
 <a href="https://unlv-museum.infinite-syndicate.com/rest-rant" target="_blank" rel="noopener">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/rest-rant?theme=dark&v=25ca85b6ae">
-    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/rest-rant?theme=light&v=25ca85b6ae" alt="Restaurant rating and review monorepo from May 2024 — a CRA + React Router SPA paired with an Express + Sequelize + Postgres backend. The museum preserves the frontend as-is and reimplements the backend in Next.js + Drizzle so the SPA functions end-to-end against the same API surface." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/rest-rant?theme=dark&v=8a8d13b0ba">
+    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/rest-rant?theme=light&v=8a8d13b0ba" alt="Restaurant rating and review monorepo from May 2024 — a CRA + React Router SPA paired with an Express + Sequelize + Postgres backend. The museum preserves the frontend as-is and reimplements the backend in Next.js + Drizzle so the SPA functions end-to-end against the same API surface." width="100%">
   </picture>
 </a>
 
