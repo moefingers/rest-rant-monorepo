@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
+import { HashRouter as BrowserRouter, Route, Switch } from 'react-router-dom'
 import Home from './Home'
 import PlaceIndex from './places/PlaceIndex'
 import PlaceDetails from './places/PlaceDetails'
